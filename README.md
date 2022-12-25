@@ -11,7 +11,9 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-	```
+```
+
+## Dependency
   
   
 > Step 2. Add the dependency
