@@ -1,5 +1,3 @@
-https://jitpack.io/#ApiCr!eaters/Razorpay/1.0.1
-
 #ApiCreaters
 Custom Toast Create
 
@@ -20,9 +18,10 @@ allprojects {
   '''gradle
   dependencies {
 	        implementation 'com.github.ApiCreaters:Razorpay:Tag'
-	}
+}
   '''
   
   That's it! The first time you request a project JitPack checks out the code, builds it and serves the build artifacts (jar, aar).
 
 If the project doesn't have any GitHub Releases you can use the short commit hash or 'master-SNAPSHOT' as the version.
+https://jitpack.io/#Ap@iCr!eaters/Razorpay/1.0.1
