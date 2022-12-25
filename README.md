@@ -1,9 +1,10 @@
 # Razorpay
+[![1.0.1](https://jitpack.io/#ApiCreaters/Razorpay/1.0.1)](https://jitpack.io/#ApiCreaters/Razorpay/1.0.1)
 Custom Toast Create
 
 To get a Git project into your build:
 > Step 1. Add the JitPack repository to your build file
-> 
+Add this in your root `build.gradle` file (**not** your module `build.gradle` file): 
 ```gradle
 allprojects {
 		repositories {
@@ -17,6 +18,7 @@ allprojects {
   
   
 > Step 2. Add the dependency
+Add this to your module's `build.gradle` file (make sure the version matches the JitPack badge above):
   ```gradle
   dependencies {
 	        implementation 'com.github.ApiCreaters:Razorpay:Tag'
