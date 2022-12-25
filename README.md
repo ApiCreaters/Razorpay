@@ -1,5 +1,5 @@
-# Razorpay
-[![1.0.1](https://jitpack.io/#ApiCreaters/Razorpay/1.0.1)](https://jitpack.io/#ApiCreaters/Razorpay/1.0.1)
+# Razorpay 🤩❤️🔥 
+[![1.0.1](https://jitpack.io/v/ApiCreaters/Razorpay.svg)](https://jitpack.io/#ApiCreaters/Razorpay)
 Custom Toast Create
 
 To get a Git project into your build:
